@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "529618899345",
+    "firebase_url": "https://maptest-77d76.firebaseio.com",
+    "project_id": "maptest-77d76",
+    "storage_bucket": "maptest-77d76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529618899345:android:e1fa864a028dd1ee",
+        "android_client_info": {
+          "package_name": "com.cuthell.maptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529618899345-512cnjq343st1urid4li2qiu04vrovmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuthell.maptest",
+            "certificate_hash": "8a0bace9c692c9a1752f77c24d2735bb7a1201fa"
+          }
+        },
+        {
+          "client_id": "529618899345-joabiv5esl7pqnolo44up4ae53f830n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrbYqvuvfWBNsFuRCFbY1gHtbtFOcOyHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529618899345-joabiv5esl7pqnolo44up4ae53f830n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
